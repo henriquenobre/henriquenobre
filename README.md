@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho como Técnico em informática na FUNORTE
-- 🌱 Estou estudando para ser um desenvolverdor Full Stack
+- 🌱 Estou estudando para ser um desenvolvedor
 - 📫 Meu e-mail: henriquenobr@gmail.com
 
 <div>
