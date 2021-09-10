@@ -1,4 +1,4 @@
-### Oi, Eu sou o Henrique 👋
+### Oi, Eu sou o Henrique Nobre 👋
 
 
 - 🔭 Atualmente trabalho como Técnico em informática na FUNORTE
