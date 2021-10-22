@@ -26,6 +26,7 @@
   <a href="https://www.linkedin.com/in/henrique-nobre-1736141aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   [![Henrique's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henriquenobre)](https://github.com/anuraghazra/github-readme-stats)
+  [![wakatime](https://wakatime.com/badge/user/4e38dc1f-b6cc-4393-ac86-aa61338d676b.svg)](https://wakatime.com/@4e38dc1f-b6cc-4393-ac86-aa61338d676b)
 
 </div>
 
