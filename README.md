@@ -26,13 +26,15 @@
   <a href="https://www.linkedin.com/in/henrique-nobre-1736141aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   <!--START_SECTION:waka-->
+
 ```text
-JavaScript   4 hrs 14 mins   ██████████████▓░░░░░░░░░░   58.69 % 
-TypeScript   2 hrs 7 mins    ███████▒░░░░░░░░░░░░░░░░░   29.44 % 
-HTML         30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Markdown     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+TypeScript   2 hrs 11 mins   ███████████░░░░░░░░░░░░░░   43.98 %
+JavaScript   2 hrs 9 mins    ██████████▓░░░░░░░░░░░░░░   43.32 %
+HTML         30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
+
 <!--END_SECTION:waka-->
   
 </div>
