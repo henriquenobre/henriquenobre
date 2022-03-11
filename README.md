@@ -1,8 +1,7 @@
 ### Oi, Eu sou o Henrique Nobre 👋
 
 
-- 🔭 Atualmente trabalho como Técnico em informática na FUNORTE
-- 🌱 Estou estudando para ser um desenvolvedor
+- 🔭 Atualmente trabalho como desenvolvedor trainee Front End e Técnico em informática na FUNORTE
 - 📫 Meu e-mail: henriquenobr@gmail.com
 
 <div>
