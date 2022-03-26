@@ -27,10 +27,9 @@
   <!--START_SECTION:waka-->
 
 ```text
-TypeScript      1 hr 29 mins    ████████████████░░░░░░░░░   63.68 %
-HTML            22 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
-Apache Config   12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
-Other           8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+TypeScript      1 hr 29 mins    ███████████████████▓░░░░░   78.24 %
+Apache Config   12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+Other           8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
 ```
 
 <!--END_SECTION:waka-->
