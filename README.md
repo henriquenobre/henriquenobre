@@ -27,9 +27,9 @@
   <!--START_SECTION:waka-->
 
 ```text
-TypeScript       20 mins         ███████████████▒░░░░░░░░░   61.89 %
-Blade Template   4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
-Other            3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+TypeScript       20 mins         ██████████████▓░░░░░░░░░░   59.25 %
+Blade Template   6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
+Other            3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
 ```
 
 <!--END_SECTION:waka-->
