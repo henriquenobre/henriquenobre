@@ -1,7 +1,7 @@
 ### Oi, Eu sou o Henrique Nobre 👋
 
 
-- 🔭 Atualmente trabalho como desenvolvedor trainee Front End e Técnico em informática na FUNORTE
+- 🔭 Atualmente trabalho como desenvolvedor Front End na Lello condomínios
 - 📫 Meu e-mail: henriquenobr@gmail.com
 
 <div>
