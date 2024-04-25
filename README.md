@@ -1,7 +1,7 @@
 ### Oi, Eu sou o Henrique Nobre 👋
 
 
-- 🔭 Atualmente trabalho como desenvolvedor Front End na Lello condomínios
+- 🔭 Atualmente trabalho como Desenvolvedor Front End 
 - 📫 Meu e-mail: henriquenobr@gmail.com
 - Portifólio - https://portifolio-front-end-nine.vercel.app/
 
